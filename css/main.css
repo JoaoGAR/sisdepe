@@ -1,0 +1,135 @@
+.blog-link{
+	margin-bottom: 5px;
+}
+
+#login-modal-btn{
+	text-align: center;
+	margin-left: 0px;
+}
+
+#first-step{
+	display: block;
+}
+
+#second-step{
+	display: none;
+}
+
+textarea {
+	resize: none;
+}
+
+.vertical-nav{
+	height: 100%;
+	background-color: #337ab7;
+	padding: 0px;
+	padding-top: 35px;
+	border: 1px solid #e7e7e7;
+	padding-left: 0;
+}
+
+.nav-feed{
+	width: 100%;
+	background-color: #337ab7;
+}
+
+a{
+	color:#fff;
+	text-decoration: none;
+	font: 150 8px bold;
+}
+
+
+a:hover{
+	text-decoration: none;
+	color:#fff;
+}
+
+.nav-feed:hover{
+	background-color: #2e6da4;
+	color:#fff;
+}
+
+.container{
+	margin-top: 80px;
+}
+
+.feed{
+	max-height: 530px;
+	overflow-y:scroll; 
+}
+
+.stars{
+	font-size: 30px;
+	color:gray;
+}
+
+.teste{
+	color: #337ab7;
+	font-size: 18px;
+	margin-left: 2000%;
+
+}
+
+.teste:hover{
+	color: #2e6da4;
+}
+
+.home{
+	color: #337ab7;
+	margin-top: 5%;
+}
+
+.home:hover{
+	color: #2e6da4;
+}
+
+.sair{
+	color: #337ab7;
+	margin-top: 5%;
+}
+
+.sair:hover{
+	color: #2e6da4;
+}
+
+.pesquisar{
+	color: #337ab7;
+}
+
+.pesquisar:hover{
+	color: #2e6da4;
+}
+
+.cadastrar{
+	margin-left:5%;
+}
+
+.my_group{
+	background-color: #2e6da4;
+	margin-top: 5%;
+	padding:5px;
+	font-size: 17px;
+	cursor: pointer;
+	color:#d4d6d8;
+	text-align: center;
+}
+
+.my_group:hover{
+	background-color: #d4d6d8;
+}
+
+.my_group:hover p{
+	color:#337ab7;
+}
+
+.box {
+	margin: 0px auto;
+	width: 70%;
+}
+
+.box-chart {
+	width: 100%;
+	margin: 0 auto;
+	padding: 10px;
+}
